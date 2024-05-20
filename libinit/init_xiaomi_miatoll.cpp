@@ -15,7 +15,7 @@ static const variant_info_t curtanain_info = {
     .brand = "Redmi",
     .device = "curtana",
     .mod_device = "curtana_in1_global",
-    .model = "Redmi Note 10 Lite",
+    .model = "Redmi Note 9 Pro",
     .build_fingerprint = "Redmi/curtana_in1/curtana:12/RKQ1.211019.001/V14.0.5.0.SJWINRF:user/release-keys",
 
     .nfc = false,
@@ -27,7 +27,7 @@ static const variant_info_t curtana_info = {
     .brand = "Redmi",
     .device = "curtana",
     .mod_device = "curtana_global",
-    .model = "Redmi Note 9S",
+    .model = "Redmi Note 10 Lite",
     .build_fingerprint = "Redmi/curtana_global/curtana:12/RKQ1.211019.001/V14.0.4.0.SJWMIXM:user/release-keys",
 
     .nfc = false,
@@ -63,7 +63,7 @@ static const variant_info_t joyeuse_info = {
     .brand = "Redmi",
     .device = "joyeuse",
     .mod_device = "joyeuse_global",
-    .model = "Redmi Note 9 Pro",
+    .model = "Redmi Note 9S",
     .build_fingerprint = "Redmi/joyeuse_global/joyeuse:12/RKQ1.211019.001/V14.0.3.0.SJZMIXM:user/release-keys",
 
     .nfc = true,
